@@ -31,6 +31,8 @@ Welcome to my GitHub! I'm a developer dedicated to building efficient, scalable,
   <img alt="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" style="padding: 5px;" />
   <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding: 5px;" />
   <img alt="WooCommerce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" style="padding: 5px;" />
+  <img alt="AngularJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+style="padding: 5px;" />        
 </p>
 
 ---
