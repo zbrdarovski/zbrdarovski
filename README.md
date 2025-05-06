@@ -15,9 +15,8 @@ Welcome to my GitHub! I'm a developer dedicated to building efficient, scalable,
   <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding: 5px;" />
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding: 5px;" />
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 5px;" />
+  <img alt="AngularJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="padding: 5px;" />  
   <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding: 5px;" />
-  <img alt="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding: 5px;" />
-  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding: 5px;" />
   <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding: 5px;" />
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding: 5px;" />
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding: 5px;" />
@@ -26,12 +25,8 @@ Welcome to my GitHub! I'm a developer dedicated to building efficient, scalable,
   <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding: 5px;" />
   <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding: 5px;" />
   <img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding: 5px;" />
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding: 5px;" />
   <img alt="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" style="padding: 5px;" />
-  <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding: 5px;" />
-  <img alt="WooCommerce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" style="padding: 5px;" />
-  <img alt="AngularJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-style="padding: 5px;" />        
+  <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding: 5px;" />      
 </p>
 
 ---
